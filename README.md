@@ -2,4 +2,4 @@
 # Agricultural Farm ---> Soil Health ---> Plant-Microbe Interactions: Paradigm for Farming Community Public Health Implications 
 # Agricultural produce, Food Safety --- > Supply Chain management
 # Farm produce borne phytovirus, parasite disease detection, diagnostics and non-invasive surveillance paradigm
-# Inquiries ---> bharath@vectorbiome.com; sunil@vectorbiome.com; info@vectorbiome.com
+# Inquiries ---> sunil@vectorbiome.com; info@vectorbiome.com
