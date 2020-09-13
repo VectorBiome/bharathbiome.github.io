@@ -1,5 +1,7 @@
-# VectorBiome ----> A One Health Workflow 
-# Agricultural Farm ---> Soil Health ---> Plant-Microbe Interactions: Paradigm for Farming Community Public Health Implications 
-# Agricultural produce, Food Safety --- > Supply Chain management
-# Farm produce borne phytovirus, parasite disease detection, diagnostics and non-invasive surveillance paradigm
-# Inquiries ---> sunil@vectorbiome.com; info@vectorbiome.com
+# vbiomewebsite
+
+## List of things to do
+* Finalize the Service Offerings
+* Need Content Wording
+* Need Images
+* Finalize Layout
