@@ -1,3 +1,3 @@
-# VectorBiome ----> A One Health Workflow 
+# A One Health Workflow 
 # AgFarm ---> Soil Health ---> Plant-Microbe Interactions
 # Inquiries ---> info@vectorbiome.com
